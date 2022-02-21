@@ -32,15 +32,6 @@ module Searchable
   end
 end 
 
-
-
-
-
-
-
-
-
-
 class PolyTreeNode
   include Searchable
 
